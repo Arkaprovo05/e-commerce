@@ -40,7 +40,7 @@ This project supports multiple package managers:
 
 **1. Clone the repository** 
    ```Bash
-   git clone "https://github.com/rutu-modha/e-commerce.git"
+   git clone "https://github.com/arko-mukherjee/e-commerce.git"
 cd ./e-commerce
 ```
 
@@ -106,7 +106,7 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 👨‍💻 Author
 
 **Hrutav Modha**
-(_modhahrutav@gmail.com_)
+(_arkaprovomukherjee@gmail.com_)
 
 ## 🤝 Contributions
 
